@@ -1,4 +1,4 @@
-# Haskell Cashier System
+# Console Cashier System
 
 A Simple Haskell Cashier System where it calculates the total price based on what the customer has placed in the cart. 
 
