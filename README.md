@@ -1,6 +1,6 @@
 # Console Cashier System
 
-A Simple Haskell Cashier System where it calculates the total price based on what the customer has placed in the cart. 
+A Simple Console Cashier System created in Haskell.
 
 ## How to Run
 
