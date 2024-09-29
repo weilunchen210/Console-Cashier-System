@@ -1,6 +1,6 @@
 # Console Cashier System
 
-A Simple Console Cashier System created in Haskell.
+A simple Console Cashier System created in Haskell.
 
 ## How to Run
 
